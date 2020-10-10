@@ -1,6 +1,7 @@
 # HacktoberFest2020
 
-OmahTI goes to HacktoberFest
+OmahTI goes to HacktoberFest <br/>
+Repo ini terbuka untuk umum dan yang belum pernah belajar git lohh :)
 
 ## Tutorial HacktoberFest
 
